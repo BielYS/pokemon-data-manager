@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "ts-node": "^10.9.2",
+    "tsc": "^2.0.4"
+  },
+  "name": "pokemon-data-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "dev": "ts-node ./src/index.ts",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^20.14.9"
+  }
+}
